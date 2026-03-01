@@ -1,0 +1,5 @@
+username,department,password
+dev_alice,developers,Alice@1234
+dev_bob,developers,Bob@1234
+ops_john,devops,John@1234
+mgr_sara,managers,Sara@1234
