@@ -130,5 +130,5 @@ All actions are logged with timestamps to:
 
 ## 👤 Author
 **Shravani Dhandrut**
-RHCSA Certified | Linux Administrator
+RHCSA | Linux Administration
 GitHub: https://github.com/shravanidhandrut
